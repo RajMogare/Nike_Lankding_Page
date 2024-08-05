@@ -8,7 +8,7 @@ This project is a landing page for NIKE boots, created using React, Tailwind CSS
 
 ## Live Demo
 
-Check out the live demo of the project [here](https://boisterous-seahorse-d14a27.netlify.app/).
+Check out the live demo of the project https://boisterous-seahorse-d14a27.netlify.app/
 
 ## Features
 
